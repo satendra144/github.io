@@ -1,0 +1,23 @@
+body{
+    background: white url("images/rawpixel-669612-unsplash.jpg");
+    }
+
+.navbar{
+    border-radius: 0;
+}
+
+.navbar-brand{
+    font-family:'Satisfy',cursive;
+}
+
+div.al{
+float:left;
+border-width:2px;
+margin:20px;
+padding:2px 10px 50px 10px;
+background-color:white;
+}
+#head{
+font-size:30px;
+color:black;
+}
